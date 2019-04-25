@@ -1,3 +1,5 @@
+include_directories(./)
+
 add_library(gstdebugutilssq SHARED
   debugutilssq.c
   gstwatchdogeos.c
